@@ -1,0 +1,12 @@
+*.mp4
+*.mkv
+*.png
+*.jpg
+!docs/*.png
+label_frames/
+output/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+live_log.csv
+shoe_starts.json
