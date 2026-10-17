@@ -1,6 +1,6 @@
-# Live-dealer blackjack: measuring whether card counting is still possible online
+# Live dealer blackjack: measuring whether card counting is still possible online
 
-An observation-only research pipeline that reads every card dealt at a live-dealer blackjack table
+An observation only research pipeline that reads every card dealt at a live-dealer blackjack table
 from the game's own UI, reconstructs the shoe, and measures **penetration**: the one number that
 decides whether counting can ever produce an edge. No bets are placed; this is a measurement tool.
 
